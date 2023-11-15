@@ -1,4 +1,4 @@
-### Hi there 👋
+### You're in the right place👋 Hello and Welcome to my GitHub (Code Hut I think)
 
 <!--
 **jibrinx/jibrinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
