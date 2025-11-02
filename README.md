@@ -1,4 +1,4 @@
-👋 Hi, I'm Jaafaru Jibrin
+👋 Hi, I'm Jibrin
 🚀 Researcher | AI & Machine Learning Engineer | Public Health Enthusiast
 
 ![Jaafaru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jibrinx&show_icons=true&theme=radical)
